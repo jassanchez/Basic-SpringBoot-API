@@ -25,7 +25,7 @@ CREATE TABLE products(
 
 ## Use
 
-To enable the propertie configuration, check CORS policy, by default React Vite Project is port 5173, change if you need it in ProductController.java
+To enable the correct configuration, check CORS policy, by default React Vite Project is port 5173, change if you need it in ProductController.java
 
 # The Api Rest have the following endpoints:
   

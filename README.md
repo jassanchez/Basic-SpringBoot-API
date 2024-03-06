@@ -36,10 +36,10 @@ To enable the propertie configuration, check CORS policy, by default React Vite 
 - /api
 
 ### PUT
-- /api/{id}: 
+- /api/{id}
 
 ### DELETE
-- /api/{id}:
+- /api/{id}
 
 *To know about the JSON required for the operations check the entities package.*
 
